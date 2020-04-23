@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(to bottom, #c2f0fc 19%,#ffd1bd 100% )
+}
+
+hr {
+  background-color:  #c2f0fc;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ffd1bd;
+  border-width: 10px;
+  width: 10%;
+}
+
+h1 {
+  color:
+  #ffb0cd;
+  text-shadow: 2px 2px 5px #ffd1bd;
+}
+h2{color:#ffb0cd;}
+h3 {color:#ffb0cd;}
